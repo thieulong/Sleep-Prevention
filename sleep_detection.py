@@ -43,7 +43,7 @@ while True:
 
         cv.imshow("Sleep Detection", frame)
 
-    if cv.waitKey(1) & 0xFF == 32:
+    if cv.waitKey(1) & 0xFF == 27:
         break
 
 camera.release()

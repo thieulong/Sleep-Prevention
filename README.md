@@ -23,4 +23,4 @@ and the project will start using your device's webcam to track your head and eye
   
 Change the camera index (line 7) in *sleep_detection.py* file. If you have no idea what your camera index is, try to replace 0 with any number from 1 and going up.
   
-You can minimize the tracking window while you're working.
+You can minimize the tracking window while you're working. Stop the program by pressing the ESC button.
